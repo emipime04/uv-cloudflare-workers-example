@@ -1,0 +1,10 @@
+[project]
+name = "uv-cloudflare-workers-example"
+version = "0.0.1"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cffi",
+    "fastapi",
+    "jinja2",
+]
